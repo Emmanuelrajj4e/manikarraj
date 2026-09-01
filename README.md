@@ -1,55 +1,90 @@
-<h1 align="center">Hi there 👋, I'm Manikar Raj</h1>
+<div align="center">
 
-<p align="center">
-  🎯 Aspiring <b>Data Scientist</b> | 🐍 Python Enthusiast | 📊 Turning Data into Insights & Impact
-</p>
+# Manikar Raj
 
-<p align="center">
-  <a href="mailto:manikarraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manikarraj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-  <a href="https://www.linkedin.com/in/manikar-raj-0a7b77374/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</p>
+### Aspiring Data Scientist &nbsp;|&nbsp; Python Enthusiast &nbsp;|&nbsp; Turning Data into Insights & Impact
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+predictive+models+from+raw+data;Exploring+machine+learning+%26+deep+learning;Turning+data+into+strategic+decisions" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🚀 About Me
-* 🌱 I’m currently diving deep into **Data Science, Machine Learning, and AI** fundamentals.
-* ⚡ Passionate about building predictive models, exploring deep learning architectures, and turning raw data into strategic solutions.
-* 📫 How to reach me: **manikarraj@gmail.com**
+## About
+
+Currently deepening my skills in data science, machine learning, and AI fundamentals — with a focus on building predictive models, exploring deep learning architectures, and turning raw data into strategic solutions. Actively seeking a data science / machine learning internship.
+
+**Contact:** manikarraj@gmail.com
 
 ---
 
-### 🧠 Data Science, ML & AI Tech Stack
+## Tech Stack
 
-#### **Core Languages & Querying**
-<img src="https://skillicons.dev/icons?i=python,R,sql" />
+**Core Languages & Querying**
 
-#### **Data Analysis & Manipulation**
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-#### **Machine Learning & Deep Learning**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
+**Data Analysis & Manipulation**
 
-#### **Version Control & Environment**
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+**Machine Learning & Deep Learning**
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+
+**Version Control & Environment**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=manikarraj-cmd&show_icons=true&theme=radical&hide_border=true" alt="Manikar's GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikarraj-cmd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+| Project | Description | Key Skills |
+|---|---|---|
+| **Cafe Data Lab** | Revenue prediction model for a cafe business using historical sales data | Pandas, Regression, EDA |
+| **E-commerce CLV Prediction** | Predicting Customer Lifetime Value to drive retention strategy | Feature Engineering, Machine Learning |
+| **Messi Tactical Analytics** | Tactical performance analysis using match data and visualization | Data Visualization, Seaborn, Matplotlib |
 
-<p align="center">
-  <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=manikarraj-cmd&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manikarraj-cmd&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikarraj-cmd&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikarraj-cmd&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikarraj-cmd&theme=tokyo-night" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:manikarraj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/manikarraj-cmd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<i>Open to Data Science / Machine Learning internship opportunities — let's connect.</i>
+
+</div>
