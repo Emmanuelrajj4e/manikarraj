@@ -1,10 +1,10 @@
 <div align="center">
 
-# Manikar Raj
-
-### Aspiring Data Scientist &nbsp;|&nbsp; Python Enthusiast &nbsp;|&nbsp; Turning Data into Insights & Impact
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a2e&height=200&section=header&text=Manikar%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Enthusiast%20%7C%20Turning%20Data%20into%20Insights&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+predictive+models+from+raw+data;Exploring+machine+learning+%26+deep+learning;Turning+data+into+strategic+decisions" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=manikarraj-cmd&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -88,3 +88,15 @@ Currently deepening my skills in data science, machine learning, and AI fundamen
 <i>Open to Data Science / Machine Learning internship opportunities — let's connect.</i>
 
 </div>
+
+---
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/manikarraj-cmd/manikarraj-cmd/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E9EF7&height=100&section=footer" />
