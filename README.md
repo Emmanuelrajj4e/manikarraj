@@ -1,150 +1,159 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:FF2E93,100:00E5FF&height=240&section=header&text=Emmanuel%20Rajj&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20in%20the%20making%20%E2%80%A2%20Python%20%E2%80%A2%20ML%20%E2%80%A2%20Motion%20of%20Data&descAlignY=60&descSize=17" />
+<img src="assets/banner.svg" width="100%" alt="Emmanuel Rajj. Data science, machine learning and artificial intelligence." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+loading+portfolio...;Building+predictive+models+from+raw+data;Exploring+machine+learning+%26+deep+learning;Turning+data+into+strategic+decisions;Open+to+Data+Science+%2F+ML+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Predictive+modeling+and+data+analysis;Machine+learning+and+deep+learning;Applied+artificial+intelligence;Turning+raw+data+into+decisions" alt="Typing animation" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=manikarraj-cmd&label=PROFILE%20VIEWS&color=FF2E93&labelColor=0B0B1A&style=for-the-badge" alt="Profile views" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 👋 &nbsp;Hello, I'm Emmanuel Rajj
-
-```python
-class EmmanuelRajj:
-    role     = "Aspiring Data Scientist"
-    focus    = ["Predictive Modeling", "Machine Learning", "Deep Learning"]
-    toolkit  = ["Python", "SQL", "Pandas", "Scikit-learn", "TensorFlow"]
-    mission  = "Turn raw data into decisions people can act on"
-    status   = "Actively seeking a Data Science / ML internship"
-
-    def say_hi(self):
-        return "manikarraj@gmail.com"
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🧰 &nbsp;Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,sklearn,tensorflow,keras,git,github,vscode,jupyter&perline=11&theme=dark" />
+<a href="#about">About</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#focus-areas">Focus areas</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#technical-stack">Stack</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#selected-projects">Projects</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#workflow">Workflow</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#contact">Contact</a>
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
+## About
 
-<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-FF2E93?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-00B8D4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-FF2E93?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-00B8D4?style=for-the-badge&logo=pandas&logoColor=white" />
+I am a data science and machine learning practitioner focused on turning raw, messy data into models and insights that support real decisions. My work covers exploratory analysis, feature engineering, supervised learning and deep learning, and I put effort into presenting results so that non-technical teams can act on them.
 
-</div>
+I am currently looking for a **data science or machine learning internship** where I can contribute to analytics and AI work while learning from experienced engineers.
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 &nbsp;Featured Projects
+## Focus areas
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ☕ Cafe Data Lab
-Revenue prediction model for a cafe business using historical sales data.
+**Data Science**
 
-`Pandas` `Regression` `EDA`
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 E-commerce CLV
-Predicting Customer Lifetime Value to drive retention strategy.
-
-`Feature Engineering` `Machine Learning`
+Exploratory data analysis<br>
+Data cleaning and wrangling<br>
+SQL querying<br>
+Visualization and data storytelling
 
 </td>
 <td width="33%" valign="top">
 
-### ⚽ Messi Tactical Analytics
-Tactical performance analysis using match data and visualization.
+**Machine Learning**
 
-`Seaborn` `Matplotlib` `Data Viz`
+Regression and prediction<br>
+Feature engineering<br>
+Model training and validation<br>
+Customer and revenue analytics
+
+</td>
+<td width="33%" valign="top">
+
+**Artificial Intelligence**
+
+Neural networks with TensorFlow and Keras<br>
+Deep learning architectures<br>
+Applied AI projects<br>
+Continuous learning in the field
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🔄 &nbsp;How I Work
+## Technical stack
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Clean & Explore]
-    B --> C[Feature Engineering]
-    C --> D[Model & Validate]
-    D --> E[Insight & Decision]
-    style A fill:#0B0B1A,stroke:#7C3AED,color:#fff
-    style B fill:#0B0B1A,stroke:#FF2E93,color:#fff
-    style C fill:#0B0B1A,stroke:#00E5FF,color:#fff
-    style D fill:#0B0B1A,stroke:#7C3AED,color:#fff
-    style E fill:#0B0B1A,stroke:#FF2E93,color:#fff
-```
+<table>
+<tr>
+<td width="22%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-12122B?style=flat-square&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/SQL-12122B?style=flat-square&logo=mysql&logoColor=00E5FF" />
+</td>
+</tr>
+<tr>
+<td><b>Data analysis</b></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-12122B?style=flat-square&logo=numpy&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Pandas-12122B?style=flat-square&logo=pandas&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Matplotlib-12122B?style=flat-square&logo=plotly&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Seaborn-12122B?style=flat-square&logo=python&logoColor=A78BFA" />
+</td>
+</tr>
+<tr>
+<td><b>Machine learning and AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Scikit--learn-12122B?style=flat-square&logo=scikit-learn&logoColor=FF2E93" />
+<img src="https://img.shields.io/badge/TensorFlow-12122B?style=flat-square&logo=tensorflow&logoColor=FF2E93" />
+<img src="https://img.shields.io/badge/Keras-12122B?style=flat-square&logo=keras&logoColor=FF2E93" />
+</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-12122B?style=flat-square&logo=git&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GitHub-12122B?style=flat-square&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Jupyter-12122B?style=flat-square&logo=jupyter&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/VS%20Code-12122B?style=flat-square&logo=visual-studio-code&logoColor=00E5FF" />
+</td>
+</tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 &nbsp;GitHub Stats
+## Selected projects
+
+| Project | Problem | Approach | Stack |
+|---|---|---|---|
+| **Cafe Data Lab** | Forecast revenue for a cafe from historical sales. | Exploratory analysis followed by regression modeling on sales history. | Pandas, Regression, EDA |
+| **E-commerce CLV Prediction** | Identify high-value customers to guide retention strategy. | Feature engineering and predictive modeling of Customer Lifetime Value. | Feature Engineering, Machine Learning |
+| **Messi Tactical Analytics** | Understand tactical patterns in match data. | Visual analysis of match events to surface performance insights. | Seaborn, Matplotlib, Data Visualization |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Workflow
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="Workflow: collect, explore, engineer, model, evaluate." />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manikarraj-cmd&show_icons=true&count_private=true&bg_color=0B0B1A&title_color=FF2E93&icon_color=00E5FF&text_color=E6E6FF&border_color=7C3AED" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikarraj-cmd&layout=compact&bg_color=0B0B1A&title_color=FF2E93&text_color=E6E6FF&border_color=7C3AED" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manikarraj-cmd&show_icons=true&count_private=true&bg_color=0B0B1A&title_color=FF2E93&icon_color=00E5FF&text_color=E6E6FF&border_color=2C2C58" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikarraj-cmd&layout=compact&bg_color=0B0B1A&title_color=FF2E93&text_color=E6E6FF&border_color=2C2C58" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikarraj-cmd&background=0B0B1A&ring=FF2E93&fire=00E5FF&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=E6E6FF&dates=9A9AC8&stroke=7C3AED&border=7C3AED" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikarraj-cmd&background=0B0B1A&ring=FF2E93&fire=00E5FF&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=E6E6FF&dates=9A9AC8&stroke=2C2C58&border=2C2C58" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikarraj-cmd&bg_color=0B0B1A&color=FF2E93&line=7C3AED&point=00E5FF&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikarraj-cmd&bg_color=0B0B1A&color=FF2E93&line=7C3AED&point=00E5FF&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🤝 &nbsp;Let's Connect
+## Contact
 
 <div align="center">
 
-<a href="mailto:manikarraj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF2E93?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/manikarraj-cmd">
-  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:manikarraj@gmail.com"><img src="https://img.shields.io/badge/Email-manikarraj%40gmail.com-12122B?style=for-the-badge&logo=gmail&logoColor=FF2E93" /></a>
+<a href="https://github.com/manikarraj-cmd"><img src="https://img.shields.io/badge/GitHub-manikarraj--cmd-12122B?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 
 <br><br>
 
-<i>Open to Data Science / Machine Learning internship opportunities — let's build something.</i>
-
-</div>
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/manikarraj-cmd/manikarraj-cmd/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<!--END_SECTION:snake-->
 
 <br>
 
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/manikarraj-cmd/manikarraj-cmd/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-<!--END_SECTION:snake-->
+<img src="assets/footer.svg" width="100%" alt="Emmanuel Rajj" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF2E93,100:7C3AED&height=120&section=footer" />
